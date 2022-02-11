@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArchitectOChaos, I'm a programmer with inermediate skill 
+- 👋 Hi, I’m @ArchitectOChaos, I'm a programmer with intermediate skill 
 - 👀 I’m interested in programming, especially simulatiuons
 - 🌱 I’m currently working on medium projects to build skill
 <!---
